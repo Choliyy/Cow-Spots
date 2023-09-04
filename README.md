@@ -1,2 +1,3 @@
 # Cow-Spots
-All Things Moo
+## All Things Moo
+I have a cow-spotted water jug and a matching cow-spotted hat.
